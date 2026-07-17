@@ -1,7 +1,7 @@
 # 🏨 Sistem Informasi Reservasi Hotel
 
 ## Deskripsi
-Aplikasi Sistem Informasi Reservasi Hotel ini merupakan proyek terintegrasi antara mata kuliah **Sistem Database** dan **Pemrograman Web**. Aplikasi berbasis web sederhana ini dirancang untuk mengelola data master (tamu, kamar, dan resepsionis) serta memproses transaksi reservasi dan pembayaran kamar secara otomatis, rapi, dan terintegrasi dengan basis data MariaDB/MySQL[cite: 10, 11, 16].
+Aplikasi Sistem Informasi Reservasi Hotel ini merupakan proyek terintegrasi antara mata kuliah **Sistem Database** dan **Pemrograman Web**. Aplikasi berbasis web sederhana ini dirancang untuk mengelola data master (tamu, kamar, dan resepsionis) serta memproses transaksi reservasi dan pembayaran kamar secara otomatis, rapi, dan terintegrasi dengan basis data.
 
 
 ## Fitur Aplikasi
